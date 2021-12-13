@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/back_widget.xml" value="0.22685185185185186" />
+        <entry key="app/src/main/res/drawable-v24/ic_chat_input_box.xml" value="0.2101851851851852" />
+        <entry key="app/src/main/res/drawable-v24/ic_chat_item_border.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/drawable-v24/ic_chat_left_item.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/drawable-v24/ic_chat_right_item.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/drawable-v24/ic_gallery_button.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/drawable-v24/ic_item_border.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/drawable-v24/ic_send_button.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.337248322147651" />
+        <entry key="app/src/main/res/layout/activity_chat_alert_dialog.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2115036231884058" />
+        <entry key="app/src/main/res/layout/activity_tran_alert_dialog.xml" value="0.17708333333333334" />
+        <entry key="app/src/main/res/layout/chat_center_item.xml" value="0.2115036231884058" />
+        <entry key="app/src/main/res/layout/chat_left_image.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/chat_left_item.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/chat_right_image.xml" value="0.2078804347826087" />
+        <entry key="app/src/main/res/layout/chat_right_item.xml" value="0.2078804347826087" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
